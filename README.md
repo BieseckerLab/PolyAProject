@@ -1,4 +1,4 @@
-ent Sites and Signals
+Predominant Sites and Signals
 Predominant polyA sites and signals were derived from the polyA site 2.0 database. PolyA sites were filtered for protein coding genes.  The predominant polyA site was defined as the polyA site that is used in more than 50% of a gene’s transcripts. For each site, predominant polyA signals were selected depending on the strength of the candidate hexamer as well as the distance of the candidate hexamer to the -21 position from representative polyA site. Both files are available in hg38 and hg19. For additional details on how polyA sites and signals were selected, check <Paper>.
 
 Predominant PolyA Site Bed file columns
