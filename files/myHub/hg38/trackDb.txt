@@ -1,0 +1,5 @@
+track Predominant PA Sites and pPASh
+bigDataUrl Predom_PolyASite_pPASh_hg19.sorted.bb
+shortLabel Predominant PA Sites and pPASh
+longLabel Predominant PolyA Sites and pPASh
+type bigBed

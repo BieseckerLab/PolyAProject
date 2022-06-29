@@ -1,0 +1,5 @@
+hub PolyA_hub
+shortLabel Predominant PA Sites and pPASh
+longLabel Predominant PolyA Sites and pPASh 
+genomesFile genomes.txt
+email shiferawhk@nih.gov
