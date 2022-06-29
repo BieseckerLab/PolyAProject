@@ -1,5 +1,5 @@
 track Predominant PA Sites and pPASh
-bigDataUrl https://rawgit.com/BieseckerLab/PolyAProject/blob/master/files/myHub/hg19/Predom_PolyASite_pPASh_hg19.sorted.bb
+bigDataUrl https://github.com/BieseckerLab/PolyAProject/blob/master/files/myHub/hg19/Predom_PolyASite_pPASh_hg19.sorted.bb
 shortLabel Predominant PA Sites and pPASh
 longLabel Predominant PolyA Sites and pPASh
 type bigBed
