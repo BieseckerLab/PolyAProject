@@ -1,5 +1,5 @@
 track Predominant PA Sites and pPASh
 bigDataUrl Predom_PolyASite_pPASh_hg38.sorted.bb
-shortLabel Predominant PA Sites and pPASh
+shortLabel pPA Sites & pPASh
 longLabel Predominant PA Sites and pPASh
 type bigBed
