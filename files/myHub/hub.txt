@@ -3,3 +3,4 @@ shortLabel Predominant PAS and predominant hexamers
 longLabel Predominant polyA sites and predominant hexamers 
 genomesFile genomes.txt
 email shiferawhk@nih.gov
+descriptionUrl https://pubmed.ncbi.nlm.nih.gov/37606238/
