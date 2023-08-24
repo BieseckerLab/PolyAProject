@@ -1,4 +1,5 @@
 track Predominant_PA_Sites_and_pPASh
+html PolyADescriptions.html
 bigDataUrl Predom_PolyASite_pPASh_hg38.sorted.bb
 shortLabel pPAS and predominant hexamers
 longLabel predominant polyA sites and predominant hexamers
